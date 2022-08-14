@@ -31,3 +31,4 @@ You will start with creating an EKS cluster in your preferred region, using `eks
  - **Build and deploy**<br>Finally, you will trigger the **build** based on a Github commit.
 
  enhanced by Jojo 
+ and again
